@@ -36,13 +36,11 @@
 
 <h1 align="center">📬 Let's Connect!</h1>
 <div align="center">
-  <a href="mailto:defxnty@mail.ru"><img src="https://cdn-icons-png.flaticon.com/128/2374/2374449.png" height="35" alt="mail logo" title="My Mail"/></a>   
-  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/MRp3bx8m"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height="35" alt="discord logo" title="My Discord"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/defxnty"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" height="35" alt="telegram logo" title="My Telegram"/></a> 
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/79057270395"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968841.png" height="35" alt="whatsapp logo" title="My Whatsapp"/></a>
+  <a href="https://wa.me/79057270395"><img src="https://cdn-icons-png.flaticon.com/128/4423/4423697.png" height="35" alt="whatsapp logo" title="My Whatsapp"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/squan4y"><img src="https://cdn-icons-png.flaticon.com/128/733/733583.png" height="35" alt="vk logo" title="My VK"/></a>
 </div>
