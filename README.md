@@ -8,7 +8,7 @@
 
 <h1 align="center">💡 About Me</h1>  
 
-*I'm a 23-year-old frontend developer from Moscow, who loves turning ideas into interactive experiences. I enjoy working with modern web technologies and continuously learning new things to level up my skills.*
+*I'm a 24-year-old frontend developer from Moscow, who loves turning ideas into interactive experiences. I enjoy working with modern web technologies and continuously learning new things to level up my skills.*
 
 ---
 
